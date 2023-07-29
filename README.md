@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center">Computer Science Student At Arizona State University</h2>
+<h2 align="center">🚀 Computer Science Student @ Arizona State University 🎓</h2>
 
 - 💬 About Me **I am a passionate Computer Science student currently pursuing my education at Arizona State University (ASU). I am deeply enthusiastic about all things tech and always eager to explore the vast world of programming and software development. My GitHub repository is a reflection of my learning journey, where I enjoy working on various projects and collaborating with fellow developers.**
 
