@@ -9,7 +9,7 @@
 <h2 align="center">🚀 Computer Science Student @ Arizona State University 🎓</h2>
 
 <h3 align="center"> 💬 About Me </h3> 
-<img alt="Coding" width="500" src="Prof-1704497048430.png"/>
+<img alt="Coding" width="1000" src="Prof-1704497048430.png"/>
 </p>
 <h4 align="center"> I am a passionate Computer Science student currently pursuing my education at Arizona State University. I am deeply enthusiastic about all things in tech and always eager to explore the vast world of programming and software development. My GitHub repository is a reflection of my learning journey, where I enjoy working on various projects and collaborating with fellow developers </h4><hr>
 
