@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Shorya Raj</h1>
 <p align="center">
-  <img alt="Coding" width="500" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ0OTY3OTQsIm5iZiI6MTcwNDQ5NjQ5NCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA1VDIzMTQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMDc4MGU0ZGMxZWYyYTZhZTZiYjNkN2I1MDA1YmMxYjdmZWQ1ZjcwZTM3ZjdiZDNkNjAxMjljYmJmMzc4NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NjAIU6Od-Zal7cbXIVLD753h54zpN3rgT3HYHW4UKn0"/>
+  <img alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </p>
 
 
