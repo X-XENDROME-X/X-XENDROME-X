@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! 👋 I'm Shorya Raj</h1>
+<h1 align="center">Hi There 👋! I'm Shorya Raj</h1>
 <p align="center">
   <img alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </p>
