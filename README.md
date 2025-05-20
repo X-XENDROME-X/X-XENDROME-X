@@ -6,7 +6,6 @@
 
 <h2 align="center">🚀 Computer Science Student @ Arizona State University 🎓</h2>
 
----
 
 <h3 align="center"> 💬 About Me </h3> 
 
@@ -80,13 +79,13 @@
   <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
 </p>
 
----
+
 
 <div align="center">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-xendrome-x&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 
----
+
 
 <p align="center">
   <img alt="Animated Coding" width="450" src="https://raw.githubusercontent.com/zekaouinoureddine/zekaouinoureddine/main/gif3.gif" />
