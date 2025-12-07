@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify&theme=dark&perline=7" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,heroku&theme=dark&perline=8" alt="Cloud" />
 </p>
 
 <p align="center">
@@ -66,22 +66,23 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI API" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="HuggingFace" width="48"/>
+  <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="OpenAI API" width="48"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,flutter,reactnative&theme=dark&perline=5" alt="Design & Mobile" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,flutter&theme=dark&perline=4" alt="Design & Mobile" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48"/>
+  <img src="https://www.svgrepo.com/show/353722/expo.svg" alt="Expo" width="48"/>
 </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="48"/>
+  <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="48"/>
@@ -96,8 +97,13 @@
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="Apollo GraphQL" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/grpc/grpc-icon.svg" alt="gRPC" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/grpc-1.svg" alt="gRPC" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="48"/>
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vitest" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-plain.svg" alt="OAuth" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swagger.svg" alt="Swagger" width="48"/>
 </p>
+
 
 
 
