@@ -32,7 +32,7 @@
 <h3 align="center">🛠️ Technical Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,swift,kotlin,go,r,rust,sql,solidity&theme=dark&perline=14" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,swift,kotlin,go,r,rust,solidity&theme=dark&perline=13" alt="Languages" />
 </p>
 
 <p align="center">
