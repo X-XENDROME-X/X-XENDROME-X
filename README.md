@@ -96,7 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" alt="Discord.js" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="48"/>
-  <img src="[https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apollographql.svg](https://avatars.githubusercontent.com/u/17189275?s=200&v=4)" alt="Apollo GraphQL" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grpc.svg" alt="gRPC" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="48"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vitest.svg" alt="Vitest" width="48"/>
