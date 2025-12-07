@@ -94,8 +94,15 @@
 </div>
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=X-XENDROME-X&theme=dark&hide_current_streak=true&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=X-XENDROME-X&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
 </div>
+
 
 <br><br>
 
