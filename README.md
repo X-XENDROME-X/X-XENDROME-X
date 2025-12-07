@@ -29,58 +29,52 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">💼 Technical Stack & Proficiencies</h3>
 
+<h4 align="center">Programming Languages</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript,swift,kotlin,go,r&perline=11" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript,swift,kotlin,r,go" alt="Languages" />
 </p>
 
+<h4 align="center">Frontend Development</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,html,css,sass,tailwind,bootstrap,redux,materialui&perline=11" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,html,css,sass,tailwind,bootstrap,redux,materialui" alt="Frontend" />
 </p>
 
+<h4 align="center">Backend & Frameworks</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,spring,dotnet,graphql&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,spring,dotnet,graphql" alt="Backend" />
 </p>
 
+<h4 align="center">Databases & Cloud Services</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,supabase,dynamodb&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,supabase,dynamodb,aws,gcp,azure,vercel,netlify" alt="Databases & Cloud" />
 </p>
 
+<h4 align="center">DevOps & Tools</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,vercel,netlify&perline=9" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,gitlab,postman,linux,bash" alt="DevOps" />
 </p>
 
+<h4 align="center">AI/ML & Data Science</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
-  </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI/ML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48"/>
 </p>
 
+<h4 align="center">Design & Collaboration</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,xcode,figma,postman,linux,bash&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=figma,xd,notion,discord,vscode,idea,androidstudio,xcode" alt="Tools" />
 </p>
 
+<h4 align="center">Mobile Development</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react&perline=2" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,swift,kotlin" alt="Mobile" />
 </p>
+
 
 
 <br><br>
