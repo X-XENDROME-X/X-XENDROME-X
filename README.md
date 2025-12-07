@@ -91,9 +91,10 @@
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=X-XENDROME-X&theme=dark&hide_current_streak=true&hide_border=true&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=X-XENDROME-X&theme=tokyonight&hide_current_streak=true&hide_border=true&card_width=495&ring=58A6FF&fire=1F6FEB&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=C9D1D9&dates=8B949E&background=0D1117&stroke=30363D&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
+
 
 
 
