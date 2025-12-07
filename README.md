@@ -66,7 +66,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="OpenAI API" width="48"/>
+  <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="ChatGPT/OpenAI" width="48"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48"/>
 </p>
 
@@ -96,12 +96,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" alt="Discord.js" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="Apollo GraphQL" width="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/grpc-1.svg" alt="gRPC" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apollographql.svg" alt="Apollo GraphQL" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grpc.svg" alt="gRPC" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="48"/>
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vitest" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-plain.svg" alt="OAuth" width="48"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swagger.svg" alt="Swagger" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vitest.svg" alt="Vitest" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/oauth.svg" alt="OAuth" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/swagger.svg" alt="Swagger/OpenAPI" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/wix-1.svg" alt="Wix" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/clickfunnels/clickfunnels-icon.svg" alt="ClickFunnels" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="SendGrid" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webhooks/webhooks-plain.svg" alt="Webhooks" width="48"/>
 </p>
 
 
