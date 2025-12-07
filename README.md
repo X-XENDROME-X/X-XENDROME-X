@@ -86,6 +86,40 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40"/>
 </p>
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript,swift,kotlin,r,bash&theme=dark)](https://skillicons.dev)
+
+### Frontend Development
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,angular,redux,html,css,sass,tailwind,bootstrap,materialui&theme=dark)](https://skillicons.dev)
+
+### Backend & Databases
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgresql,firebase,redis,prisma&theme=dark)](https://skillicons.dev)
+
+### Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,flutter,androidstudio,xcode&theme=dark)](https://skillicons.dev)
+
+### AI/ML & Data Science
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48"/>
+
+### DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify,github,git,githubactions&theme=dark)](https://skillicons.dev)
+
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,figma,notion,linux,npm,yarn,webpack,vite&theme=dark)](https://skillicons.dev)
+
+### Testing & Quality
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest,selenium&theme=dark)](https://skillicons.dev)
+
+</div>
+
+
 
 <br><br>
 
