@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="48"/>
+  <img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" alt="Discord.js" width="48"/>
