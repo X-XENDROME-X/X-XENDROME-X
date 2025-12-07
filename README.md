@@ -73,7 +73,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,flutter&theme=dark&perline=4" alt="Design & Mobile" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48"/>
-  <img src="https://www.svgrepo.com/show/353722/expo.svg" alt="Expo" width="48"/>
 </p>
 
 <p align="center">
@@ -104,6 +103,8 @@
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="SendGrid" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="48"/>
 </p>
 
 
