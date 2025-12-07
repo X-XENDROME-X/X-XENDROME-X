@@ -90,12 +90,11 @@
 <br><br>
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-xendrome-x&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=X-XENDROME-X&theme=dark&hide_current_streak=true&hide_border=true&card_width=400)](https://git.io/streak-stats)
+
 </div>
 
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=X-XENDROME-X&theme=dark&hide_current_streak=true&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 
 <br><br>
