@@ -31,56 +31,36 @@
 
 <h3 align="center">💼 Technical Stack & Proficiencies</h3>
 
-<h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript,swift,kotlin,r,go" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,cs,swift,kotlin,go,r,html,css,react,nextjs,vue,angular,nodejs,express,flask,django,fastapi,spring,dotnet,mongodb,mysql,postgresql,firebase,redis,aws,gcp,azure,docker,kubernetes,git,github,gitlab,jenkins,linux,bash,tensorflow,pytorch,sklearn,tailwind,bootstrap,sass,materialui,redux,graphql,postman,figma,vscode,androidstudio,flutter,vercel,netlify,supabase,dynamodb" alt="tech stack" />
 </p>
 
-<h4 align="center">Frontend Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,html,css,sass,tailwind,bootstrap,redux,materialui" alt="Frontend" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman API" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="48" height="48"/>
 </p>
-
-<h4 align="center">Backend & Frameworks</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,spring,dotnet,graphql" alt="Backend" />
-</p>
-
-<h4 align="center">Databases & Cloud Services</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,supabase,dynamodb,aws,gcp,azure,vercel,netlify" alt="Databases & Cloud" />
-</p>
-
-<h4 align="center">DevOps & Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,gitlab,postman,linux,bash" alt="DevOps" />
-</p>
-
-<h4 align="center">AI/ML & Data Science</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI/ML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48"/>
-</p>
-
-<h4 align="center">Design & Collaboration</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,notion,discord,vscode,idea,androidstudio" alt="Tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48"/>
-
-</p>
-
-<h4 align="center">Mobile Development</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,swift,kotlin" alt="Mobile" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48"/>
-
-</p>
-
-
-
 
 <br><br>
 
