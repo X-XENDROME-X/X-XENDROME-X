@@ -48,11 +48,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,heroku&theme=dark&perline=8" alt="Cloud & Containers" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,heroku&theme=dark&perline=8" alt="Cloud" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions,linux,bash,postman&theme=dark&perline=8" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions,linux,bash,postman&theme=dark&perline=8" alt="DevOps" />
 </p>
 
 <p align="center">
@@ -60,24 +60,19 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=3" alt="AI/ML Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=3" alt="AI/ML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/anthropic-icon.svg" alt="Anthropic Claude" width="48"/>
   <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="ChatGPT/OpenAI" width="48"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mlflow.svg" alt="MLflow" width="48"/>
-  <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="48"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,flutter&theme=dark&perline=4" alt="Design & Mobile" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48"/>
-  <img src="https://www.svgrepo.com/show/353722/expo.svg" alt="Expo" width="48"/>
 </p>
 
 <p align="center">
@@ -85,39 +80,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="48"/>
   <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.io" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="48"/>
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" width="48"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grpc.svg" alt="gRPC" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/oauth.svg" alt="OAuth" width="48"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/swagger.svg" alt="Swagger/OpenAPI" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" alt="Discord.js" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="48"/>
-</p>
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="SendGrid" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="48"/>
 </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vitest.svg" alt="Vitest" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/oauth.svg" alt="OAuth" width="48"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/swagger.svg" alt="Swagger/OpenAPI" width="48"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Shopify" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-plain.svg" alt="Discord.js" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="SendGrid" width="48"/>
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="48"/>
 </p>
-
-
 
 
 
