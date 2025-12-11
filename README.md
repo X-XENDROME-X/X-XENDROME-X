@@ -21,11 +21,14 @@
 
 <p align="center">
   <samp>
-    💻 Passionate about Software Development, AI, and Web Technologies 🌐<br>
-    🌱 Constantly Learning and Exploring New Tech 📚<br>
-    🤝 Open to Collaborate on Exciting Projects 💡<br>
+    💻 Building full-stack applications, ML models, and mobile experiences 🚀<br>
+    🧠 Exploring AI/ML, cloud architecture, and modern web frameworks 🌐<br>
+    📊 Turning data into insights and ideas into working software 💡<br>
+    🤝 Always open to collaboration on innovative projects ✨<br>
+    🎯 Seeking opportunities to create impactful tech solutions 🌟<br>
   </samp>
 </p>
+
 
 ---
 
