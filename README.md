@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I am a Computer Science student at <strong>Arizona State University</strong> with a passion for building intelligent systems and scalable applications. My expertise spans <strong>full-stack web development</strong>, where I create seamless user experiences with modern frameworks, <strong>machine learning and AI</strong>, where I develop models for real-world problem solving, and <strong>data science</strong>, where I transform raw data into actionable insights. I also work on <strong>mobile development</strong> and explore <strong>cloud technologies</strong> to deploy robust solutions. Whether it's crafting responsive interfaces, training neural networks, or optimizing databases, I love tackling complex challenges and turning ideas into functional software.
+  I am a Computer Science student at <strong>Arizona State University</strong> with a passion for building intelligent systems and scalable applications. My expertise spans <strong>full-stack development</strong>, where I create seamless user experiences with modern frameworks, <strong>machine learning and AI</strong>, where I develop models for real-world problem solving, and <strong>data science</strong>, where I transform raw data into actionable insights. I also work on <strong>mobile development</strong> and explore <strong>cloud technologies</strong> to deploy robust solutions. Whether it's crafting responsive interfaces, training neural networks, or optimizing databases, I love tackling complex challenges and turning ideas into functional software.
 </p>
 
 ---
