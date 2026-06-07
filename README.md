@@ -4,7 +4,7 @@
   <img alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </p>
 
-<h2 align="center">🚀 Computer Science Student @ Arizona State University 🎓</h2>
+<h2 align="center">Software Engineer 👨🏻‍💻</h2>
 
 
 <h3 align="center"> 💬 About Me </h3> 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I am a Computer Science student at <strong>Arizona State University</strong> with a passion for building intelligent systems and scalable applications. My expertise spans <strong>full-stack development</strong>, where I create seamless user experiences with modern frameworks, <strong>machine learning and AI</strong>, where I develop models for real-world problem solving, and <strong>data science</strong>, where I transform raw data into actionable insights. I also work on <strong>mobile development</strong> and explore <strong>cloud technologies</strong> to deploy robust solutions. Whether it's crafting responsive interfaces, training neural networks, or optimizing databases, I love tackling complex challenges and turning ideas into functional software.
+  I'm a Software Engineer and <strong>CS graduate from Arizona State University</strong> with a passion for building intelligent systems and scalable applications. My expertise spans <strong>full-stack development</strong>, where I create seamless user experiences with modern frameworks, <strong>machine learning and AI</strong>, where I develop and fine-tune models for real-world problem solving, and <strong>mobile development</strong>, where I ship iOS and cross-platform apps. Whether it's crafting responsive interfaces, training neural networks, or deploying cloud-native solutions, I love tackling complex challenges and turning ideas into functional software.
 </p>
 
 ---
@@ -22,7 +22,7 @@
 <p align="center">
   <samp>
     💻 Building full-stack applications, ML models, and mobile experiences 🚀<br>
-    🧠 Exploring AI/ML, cloud architecture, and modern web frameworks 🌐<br>
+    🧠 Working with AI/ML, LLM fine-tuning, and cloud-native architectures 🌐<br>
     📊 Turning data into insights and ideas into working software 💡<br>
     🤝 Always open to collaboration on innovative projects ✨<br>
     🎯 Seeking opportunities to create impactful tech solutions 🌟<br>
